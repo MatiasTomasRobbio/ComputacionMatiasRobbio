@@ -1,0 +1,7 @@
+***** TP7 *******
+ - Buscar en el repositorio del tp6 teniendo en cuenta:
+   * Buscar segun algoritmo busqueda binaria. !!!!!
+   * devolver producto con el precio buscado
+   * ingresar lista desordenada en la funcion.
+
+ - (Comentar test_delete_producto)  
